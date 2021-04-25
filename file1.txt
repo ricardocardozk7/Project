@@ -1,3 +1,6 @@
 Hello World
 123456789
 My name is Ricardo
+GitLab is the open 
+DevOps platform
+Iterate faster, innovate together: Our open DevOps platform is a single application for unparalleled collaboration, visibility, and development velocity.
